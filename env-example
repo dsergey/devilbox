@@ -251,6 +251,9 @@ MONGO_SERVER=3.4
 ###
 HOST_PATH_HTTPD_DATADIR=./data/www
 
+## see details on github https://github.com/cytopia/devilbox/issues/90
+HOST_PATH_REAL_DATADIR=/home/sergey/www
+
 ###
 ### Local filesystem path to mysql/mariadb datadir.
 ###
